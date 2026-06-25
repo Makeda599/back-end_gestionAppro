@@ -1,0 +1,51 @@
+{
+  "categories": [
+    {
+      "id": "HXV6cp22PfY",
+      "libelle": "cuisinemo"
+    },
+    {
+      "id": "ZJx671EvUTs",
+      "libelle": "informatique"
+    },
+    {
+      "id": "M8uU5Yk44Qk",
+      "libelle": "maison"
+    }
+  ],
+  "produits": [
+    {
+      "id": "dYdWwFt3obc",
+      "libelle": "Aliqua Illum nesci",
+      "prix": 80,
+      "categorieId": "qyC3J8lJxxk",
+      "imageUrl": "https://res.cloudinary.com/drudecsm6/image/upload/v1781792403/87a1d08a-972f-49fc-baba-06a7eecff604_1_dtoxgf.jpg",
+      "imagePublicId": "87a1d08a-972f-49fc-baba-06a7eecff604_1_dtoxgf"
+    },
+    {
+      "id": "ZXCr0YBA78o",
+      "libelle": "Dolorem unde incidid",
+      "prix": 52,
+      "categorieId": "qyC3J8lJxxk",
+      "imageUrl": "https://res.cloudinary.com/drudecsm6/image/upload/v1781792681/design_composition_monitor_xtgh1s.png",
+      "imagePublicId": "design_composition_monitor_xtgh1s"
+    },
+    {
+      "id": "sRHj51F-GD8",
+      "libelle": "mango",
+      "prix": 49,
+      "categorieId": "M8uU5Yk44Qk",
+      "imageUrl": "https://res.cloudinary.com/drudecsm6/image/upload/v1781795396/386c57cb-78fc-4223-82be-56c45f9fb686_cvnhok.jpg",
+      "imagePublicId": "386c57cb-78fc-4223-82be-56c45f9fb686_cvnhok"
+    },
+    {
+      "id": "L0V7aF-3l3M",
+      "libelle": "mannnn",
+      "prix": 1000,
+      "categorieId": "M8uU5Yk44Qk",
+      "imageUrl": "https://placehold.co/600x400?text=Pas+d+image",
+      "imagePublicId": null
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
