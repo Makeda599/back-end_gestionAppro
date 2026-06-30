@@ -15,24 +15,8 @@
   ],
   "produits": [
     {
-      "id": "dYdWwFt3obc",
-      "libelle": "Aliqua Illum nesci",
-      "prix": 80,
-      "categorieId": "qyC3J8lJxxk",
-      "imageUrl": "https://res.cloudinary.com/drudecsm6/image/upload/v1781792403/87a1d08a-972f-49fc-baba-06a7eecff604_1_dtoxgf.jpg",
-      "imagePublicId": "87a1d08a-972f-49fc-baba-06a7eecff604_1_dtoxgf"
-    },
-    {
-      "id": "ZXCr0YBA78o",
-      "libelle": "Dolorem unde incidid",
-      "prix": 52,
-      "categorieId": "qyC3J8lJxxk",
-      "imageUrl": "https://res.cloudinary.com/drudecsm6/image/upload/v1781792681/design_composition_monitor_xtgh1s.png",
-      "imagePublicId": "design_composition_monitor_xtgh1s"
-    },
-    {
       "id": "sRHj51F-GD8",
-      "libelle": "mango",
+      "libelle": "mangomkjhgfd",
       "prix": 49,
       "categorieId": "M8uU5Yk44Qk",
       "imageUrl": "https://res.cloudinary.com/drudecsm6/image/upload/v1781795396/386c57cb-78fc-4223-82be-56c45f9fb686_cvnhok.jpg",
@@ -43,8 +27,60 @@
       "libelle": "mannnn",
       "prix": 1000,
       "categorieId": "M8uU5Yk44Qk",
-      "imageUrl": "https://placehold.co/600x400?text=Pas+d+image",
-      "imagePublicId": null
+      "imageUrl": "https://res.cloudinary.com/drudecsm6/image/upload/v1782788595/WhatsApp_Image_2026-04-14_at_12.03.28_deev6y.jpg",
+      "imagePublicId": "WhatsApp_Image_2026-04-14_at_12.03.28_deev6y"
+    },
+    {
+      "id": "prod-94d53d4c-7675-4d0e-a480-4928c05e68cb",
+      "libelle": "Incidunt qui modi e",
+      "prix": 15,
+      "categorieId": "ZJx671EvUTs",
+      "imageUrl": "https://res.cloudinary.com/drudecsm6/image/upload/v1782786185/WhatsApp_Image_2026-04-14_at_12.03.28_uicb1b.jpg",
+      "imagePublicId": "WhatsApp_Image_2026-04-14_at_12.03.28_uicb1b"
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "id": "user-8b79d0b9-53b2-441f-a502-86478e9a0072",
+      "email": "fyceqypuk@mailinator.com",
+      "password": "0000",
+      "role": "fournisseur",
+      "nom": "Labore totam et earu",
+      "fournisseurId": "2ocdkqxmq"
+    },
+    {
+      "id": "user-d40c945f-ab78-45e8-9731-cea74827ecee",
+      "email": "jocecymy@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "role": "fournisseur",
+      "nom": "Ut ab unde natus bla",
+      "fournisseurId": "roice2zl5"
+    }
+  ],
+  "fournisseurs": [
+    {
+      "id": "2ocdkqxmq",
+      "nom": "Labore totam et earu",
+      "email": "fyceqypuk@mailinator.com",
+      "telephone": "+1 (617) 531-3828",
+      "adresse": "Facilis molestiae ni",
+      "type": "Dolorem voluptatem",
+      "dateInscription": "1970-10-14"
+    },
+    {
+      "id": "roice2zl5",
+      "nom": "Ut ab unde natus bla",
+      "email": "jocecymy@mailinator.com",
+      "telephone": "+1 (598) 756-8492",
+      "adresse": "Non ducimus officia",
+      "type": "Accusamus consequatu",
+      "dateInscription": "2010-10-23"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
